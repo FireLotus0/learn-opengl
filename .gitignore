@@ -1,0 +1,248 @@
+# Visual Studio 2019/2022
+.vs/
+.vscode/
+.vscode-test/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Rider Local History
+.idea/.idea.LocalHistory
+
+# Rider files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/artifacts
+.idea/shelf
+.idea/modules.xml
+.idea/.idea.{projectname}.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/assetWizard.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/jsLibraryMappings.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+
+# Rider plugin
+# Comment if you have Rider plugin
+.idea/.idea.{projectname}.iml
+
+# Rider Gradle Plugin
+.idea/build.gradle
+.idea/gradle.xml
+
+# Rider JDK
+.idea/jarRepositories.xml
+.idea/jarRepositories.xml
+.idea/libraries
+
+# Rider Project
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/vcs.xml
+
+# Rider Logs
+.idea/.idea.log
+
+# Rider Build
+.idea/build.gradle
+.idea/gradle.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+
+# Rider Asset
+.idea/assetWizard.xml
+.idea/dictionaries
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/tasks.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/.idea.LocalHistory
+
+# Rider User
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/vcs.xml
+
+# Rider Exclude
+.idea/.idea.LocalHistory
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/vcs.xml
+
+# Rider Include
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/vcs.xml
+
+# Rider Cache
+.idea/.idea.LocalHistory
+
+# Rider Libraries
+.idea/libraries
+
+# Rider Workspace
+.idea/workspace.xml
+
+# Rider Tasks
+.idea/tasks.xml
+
+# Rider Gradle
+.idea/grad.xml
+
+# Rider VCS
+.idea/vcs.xml
+
+# Rider UI Designer
+.idea/uiDesigner.xml
+
+# Rider Asset Wizard
+.idea/assetWizard.xml
+
+# Rider Encodings
+.idea/encodings.xml
+
+# Rider JAR Repositories
+.idea/jarRepositories.xml
+
+# Rider JS Library Mappings
+.idea/jsLibraryMappings.xml
+
+# Rider Modules
+.idea/modules.xml
+
+# Rider Miscellaneous
+.idea/misc.xml
+
+# Rider Libraries
+.idea/libraries
+
+# Rider Workspace
+.idea/workspace.xml
+
+# Rider Tasks
+.idea/tasks.xml
+
+# Rider Gradle
+.idea/gradle.xml
+
+# Rider VCS
+.idea/vcs.xml
+
+# Rider UI Designer
+.idea/uiDesigner.xml
+
+# Rider Asset Wizard
+.idea/assetWizard.xml
+
+# Rider Encodings
+.idea/encodings.xml
+
+# Rider JAR Repositories
+.idea/jarRepositories.xml
+*.sln
+*.vcxproj
+*.filters
